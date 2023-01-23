@@ -1,7 +1,6 @@
-import React, { ReactNode } from 'react';
-import Index from './components/header';
-import './App.css';
+import React, {ReactNode} from 'react';
 import Header from './components/header';
+import './App.css';
 
 type Prop = {
   children?: ReactNode;
